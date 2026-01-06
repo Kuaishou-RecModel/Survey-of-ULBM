@@ -50,11 +50,18 @@ This survey covers a wide range of topics relevant to ULBM, including:
 
 #### Algorithmic
 
-ULBM commonly adopts a two-stage paradigm of *preprocess first, encode later* to reduce the scale of user behavior sequences and achieve a balance between efficiency and effectiveness. This paradigm can be further categorized into search-based methods and compression-based methods. In this context, the General Search Unit (GSU) and the Interest Reduction Unit (IRU) serve as key components for improving efficiency.
+ULBM commonly adopts a two-stage paradigm of *preprocess first, encode later* to reduce the scale of user behavior sequences and achieve a balance between efficiency and effectiveness. This paradigm can be further categorized into search-based methods and compression-based methods. In this context, the *General Search Unit* (GSU) and the *Interest Reduction Unit* (IRU) serve as key components for improving efficiency.
 
 Trend chart of existing ULBM work on algorithmic optimizations:
 
 ![ALO](fig/alo.png)
+
+#### Infrastructure
+Industrial-scale ULBM faces strict latency and throughput requirements due to ultra-long sequences, persistent user states, and frequent online inference. Infrastructure optimizations aim to increase throughput, reduce GPU memory and storage, and shorten response time. These optimizations can be categorized into three main types: *custom kernels*, *precision optimization*, and *multi-level caching*.
+
+The infrastructure optimizations of ULBM can be organized along three dimension:
+
+![INFRA](fig/infra.png)
 
 
 
