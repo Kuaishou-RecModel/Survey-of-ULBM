@@ -37,7 +37,7 @@ Through this survey, we aim to provide researchers and practitioners with a comp
 ![Statistics Image](figures/statistics_v2.png) -->
 
 - The shift of the ROI equilibrium point in industrial scenarios
-![ROI](fig/ROI.pdf)
+![ROI](fig/ROI.png)
 
 
 ## Survey Scope
