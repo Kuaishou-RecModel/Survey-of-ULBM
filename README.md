@@ -219,7 +219,7 @@ This research was conducted as a collaboration between University of Science and
 <table>
   <tr>
     <td align="center"><img src="fig/USTC_logo_2008.svg.png" width="100px" alt="University of Science and Technology of China"/><br /><sub><b>University of Science and Technology of China</b></sub></td>
-    <td align="center"><img src="figures/Kuaishou_logo_(2020).png" width="100px" alt="Kuaishou Technology"/><br /><sub><b>Kuaishou Technology</b></sub></td>
+    <td align="center"><img src="fig/Kuaishou_logo_(2020).png" width="100px" alt="Kuaishou Technology"/><br /><sub><b>Kuaishou Technology</b></sub></td>
   </tr>
 </table>
 
