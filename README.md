@@ -67,6 +67,14 @@ The effectiveness optimizations of ULBM can be characterized along three dimensi
 ![Effectiveness](fig/effectiveness.png)
 
 ## Papers
+We provide a curated collection of references related to ULBM, including works on *short-sequence modeling*, *search-based ULBM methods*, *compression-based ULBM methods*, approaches that focus on *modeling heterogeneous user behaviors*, and methods that emphasize the *incorporation of external knowledge*.
+
+- **short-sequence modeling:** Approaches that model user preferences based on short-term interaction histories, which are effective for capturing immediate intent but limited in representing long-term interests.
+
+|  Method   |                                             Paper Title                                              |   Published At    |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
+| *DIN* |      [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/abs/1706.06978)      | KDD'18 |
+
 
 ## Datasets
 
