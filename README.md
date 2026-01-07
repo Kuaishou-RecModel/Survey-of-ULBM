@@ -135,11 +135,11 @@ We provide a curated collection of references related to ULBM, including:
 
 |  Method   |                                             Paper Title                                              |   Published At    |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
-| *ADFM(C+S)* | [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](https://arxiv.org/abs/2204.11587) | SIGIR'22 |
-| *HBM(C+S)* | [Hierarchical User Long-term Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207) | SIGIR'25 |
-| *TWIN V2(C+S)* | [TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](https://arxiv.org/abs/2407.16357) | CIKM'24 |
-| *DMGIN(C+S)* | [DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](https://arxiv.org/abs/2508.21801) | arXiv'25 |
-| *DILN(S+C)* | [Interest Changes: Considering User Interest Life Cycle in Recommendation Systems](https://arxiv.org/abs/2505.08471) | SIGIR'25 |
+| *ADFM<sub>C+S<sub>* | [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](https://arxiv.org/abs/2204.11587) | SIGIR'22 |
+| *HBM<sub>C+S<sub>* | [Hierarchical User Long-term Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207) | SIGIR'25 |
+| *TWIN V2<sub>C+S<sub>* | [TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](https://arxiv.org/abs/2407.16357) | CIKM'24 |
+| *DMGIN<sub>C+S<sub>* | [DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](https://arxiv.org/abs/2508.21801) | arXiv'25 |
+| *DILN<sub>S+C<sub>* | [Interest Changes: Considering User Interest Life Cycle in Recommendation Systems](https://arxiv.org/abs/2505.08471) | SIGIR'25 |
 
 
 
