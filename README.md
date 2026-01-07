@@ -101,6 +101,7 @@ We provide a curated collection of references related to ULBM, including works o
 | *UBR4CTR* |      [User Behavior Retrieval for Click-Through Rate Prediction](https://arxiv.org/abs/2005.14171)      | SIGIR'20 |
 | *QIN* |      [Query-dominant User Interest Network for Large-Scale Search Ranking](https://arxiv.org/abs/2310.06444)      | CIKM'23 |
 | *MUSE* |      [MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling](https://arxiv.org/abs/2512.07216)      | arXiv'25 |
+| *HBM* |      [Hierarchical User Long-term Behavior Modeling forClick-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207)      | SIGIR'25 |
 
 ## Datasets
 
