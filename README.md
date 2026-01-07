@@ -133,13 +133,13 @@ We provide a curated collection of references related to ULBM, including:
 
 - **Hybrid Methods:** Approaches that combine retrieval-based and compression-based strategies to balance efficiency and effectiveness when modeling ultra-long user behavior sequences.
 
-| Method   | Paper Title | Published At | Paradigm |
+|   Method   | Paper Title | Published At | Paradigm |
 |:--------:|-------------|:------------:|:--------:|
-| *ADFM* | [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](https://arxiv.org/abs/2204.11587) | SIGIR 2022 | Compression + Search |
-| *HBM* | [Hierarchical User Long-term Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207) | SIGIR 2025 | Compression + Search |
-| *TWIN V2* | [TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](https://arxiv.org/abs/2407.16357) | CIKM 2024 | Compression + Search |
-| *DMGIN* | [DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](https://arxiv.org/abs/2508.21801) | arXiv 2025 | Compression + Search |
-| *DILN* | [Interest Changes: Considering User Interest Life Cycle in Recommendation Systems](https://arxiv.org/abs/2505.08471) | SIGIR 2025 | Search + Compression |
+| *ADFM* | [Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction](https://arxiv.org/abs/2204.11587) | SIGIR'22 | Compression + Search |
+| *HBM* | [Hierarchical User Long-term Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207) | SIGIR'25 | Compression + Search |
+| *TWIN V2* | [TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](https://arxiv.org/abs/2407.16357) | CIKM'24 | Compression + Search |
+| *DMGIN* | [DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](https://arxiv.org/abs/2508.21801) | arXiv'25 | Compression + Search |
+| *DILN* | [Interest Changes: Considering User Interest Life Cycle in Recommendation Systems](https://arxiv.org/abs/2505.08471) | SIGIR'25 | Search + Compression |
 
 
 
