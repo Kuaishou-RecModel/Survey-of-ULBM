@@ -67,7 +67,14 @@ The effectiveness optimizations of ULBM can be characterized along three dimensi
 ![Effectiveness](fig/effectiveness.png)
 
 ## Papers
-We provide a curated collection of references related to ULBM, including works on *short-sequence modeling*, *search-based ULBM methods*, *compression-based ULBM methods*, *End-to-End ULBM methods*, approaches that focus on *modeling heterogeneous user behaviors*, and methods that emphasize the *incorporation of external knowledge*.
+We provide a curated collection of references related to ULBM, including:
+- short-sequence modeling,
+- search-based methods,
+- compression-based methods,
+- Hybrid methods,
+- End-to-End methods,
+- Methods on heterogeneous user behaviors,
+- Methods on incorporation of external knowledge.
 
 - **Short-sequence Modeling:** Early and foundational methods that provide essential modeling principles for capturing user preferences through short-term interaction dynamics.
 
@@ -102,6 +109,32 @@ We provide a curated collection of references related to ULBM, including works o
 | *QIN* |      [Query-dominant User Interest Network for Large-Scale Search Ranking](https://arxiv.org/abs/2310.06444)      | CIKM'23 |
 | *MUSE* |      [MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling](https://arxiv.org/abs/2512.07216)      | arXiv'25 |
 | *HBM* |      [Hierarchical User Long-term Behavior Modeling forClick-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3726302.3730207)      | SIGIR'25 |
+
+- **Compression-based Methods:** Methods that transform long behavior sequences into a limited number of compact representations to support scalable and effective user modeling.
+
+|  Method   |                                             Paper Title                                              |   Published At    |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
+| *DV365* |      [DV365: Extremely Long User History Modeling at Instagram](https://arxiv.org/abs/2506.00450)      | KDD'25 |
+| *ULIM* |      [User Long-Term Multi-Interest Retrieval Model for Recommendation](https://arxiv.org/abs/2507.10097)      | RecSys'25 |
+| *PinFM* |      [PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform](https://arxiv.org/abs/2507.12704)      | RecSys'25 |
+| *LREA* |      [LREA: Low-Rank Efficient Attention on Modeling Long-Term User Behaviors for CTR Prediction](https://arxiv.org/abs/2503.02542)      | SIGIR'25 |
+| *HiT-LBM* |      [Hierarchical Tree Search-based User Lifelong Behavior Modeling on Large Language Model](https://arxiv.org/abs/2505.19505)      | SIGIR'25 |
+| *Climber* |      [An Efficient Large Recommendation Model: Towards a Resource-Optimal Scaling Law](https://arxiv.org/abs/2502.09888)      | CIKM'25 |
+| *VQL* |      [VQL: An End-to-End Context-Aware Vector Quantization Attention for Ultra-Long User Behavior Modeling](https://arxiv.org/abs/2508.17125)      | arXiv'25 |
+| *ENCODE* |      [ENCODE: Breaking the Trade-Off Between Performance and Efficiency in Long-Term User Behavior Modeling](https://arxiv.org/abs/2508.13567)      | TKDE'25 |
+| *Trinity* |      [Trinity: Syncretizing Multi-/Long-tail/Long-term Interests All in One](https://arxiv.org/abs/2402.02842)      | KDD'24 |
+| *UUM* |      [Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat](https://arxiv.org/abs/2504.21838)      | SIGIR'25 |
+| *DMQN* |      [Deep Multiple Quantization Network on Long Behavior Sequence for Click-Through Rate Prediction](https://arxiv.org/abs/2508.20865)      | SIGIR'25 |
+| *DiffuMin* |      [Modeling Long-term User Behaviors with Diffusion-driven Multi-interest Network for CTR Prediction](https://arxiv.org/abs/2508.15311)      | RecSys'25 |
+| *CHIME* |      [CHIME: A Compressive Framework for Holistic Interest Modeling](https://arxiv.org/abs/2504.06780)      | arXiv'25 |
+| *MIMN* |      [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/abs/1905.09248)      | KDD'19 |
+| *CAIN* |      [Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate Prediction](https://arxiv.org/abs/2502.12634)      | arXiv'25 |
+| *VISTA* |      [Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders](https://arxiv.org/abs/2510.22049)      | arXiv'25 |
+| *STCA* |      [Make It Long, Keep It Fast: End-to-End 10k-Sequence Modeling at Billion Scale on Douyin](https://arxiv.org/abs/2511.06077)      | arXiv'25 |
+| *DGIN* |      [Deep Group Interest Modeling of Full Lifelong User Behaviors for CTR Prediction](https://arxiv.org/abs/2311.10764)      | arXiv'23 |
+
+
+
 
 ## Datasets
 
