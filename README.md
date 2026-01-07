@@ -215,6 +215,8 @@ We summarize representative datasets for evaluating ULBM methods, covering ultra
 
 
 ## Acknowledgement
+This research was conducted as a collaboration between University of Science and Technology of China and Kuaishou Technology.
+
 
 ## How to Contribute
 
