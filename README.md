@@ -74,6 +74,7 @@ We provide a curated collection of references related to ULBM, including:
 - Hybrid methods,
 - End-to-End methods,
 - Methods on heterogeneous user behaviors,
+- Methods on user interest,
 - Methods on incorporation of external knowledge.
 
 - **Short-sequence Modeling:** Early and foundational methods that provide essential modeling principles for capturing user preferences through short-term interaction dynamics.
@@ -154,6 +155,43 @@ We provide a curated collection of references related to ULBM, including:
 | *GenRank* |      [Towards Large-scale Generative Ranking](https://arxiv.org/abs/2505.04180)      | arXiv'25 |
 | *Fuxi-α* |      [FuXi-α: Scaling Recommendation Model with Feature Interaction Enhanced Transformer](https://arxiv.org/abs/2502.03036)      | WWW'25 |
 
+
+- **Methods on heterogeneous user behaviors:** Approaches that explicitly model multiple types of user actions to capture diverse preference signals and their interactions within user behavior sequences.
+
+|  Method   |                                             Paper Title                                              |   Published At    |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
+| *GNMR* |      [Multi-Behavior Enhanced Recommendation with Cross-Interaction Collaborative Relation Modeling](https://arxiv.org/abs/2201.02307)      | ICDE'21|
+| *MB-CGCN* |      [ Multi-Behavior Recommendation with Cascading Graph Convolution Networks ](https://arxiv.org/abs/2303.15720)      | WWW'23 |
+| *MB-GMN* |      [Graph Meta Network for Multi-Behavior Recommendation  ](https://arxiv.org/abs/2110.03969)      | SIGIR'21 |
+| *MBGCN* |      [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3397271.3401072)      | SIGIR'20 |
+| *CRGCN* |      [Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation](https://dl.acm.org/doi/10.1145/3587693)      | TOIS'23 |
+| *CML* |      [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://arxiv.org/abs/2202.08523)      | WSDM'22 |
+| *CMBR* |      [Controllable Multi-Behavior Recommendation for In-Game Skins with Large Sequential Model](https://dl.acm.org/doi/10.1145/3637528.3671572)      | KDD'24 |
+
+
+- **Methods on user interest:** Approaches that represent users with multiple interest vectors to capture diverse and evolving preferences within user behavior sequences.
+
+|  Method   |                                             Paper Title                                              |   Published At    |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
+| *MIND* |      [Multi-Interest Network with Dynamic Routing for Recommendation at Tmall](https://arxiv.org/abs/1904.08030)      | CIKM'19 |
+| *ComiRec* |      [Controllable Multi-Interest Framework for Recommendation](https://arxiv.org/abs/2005.09347)      | KDD'20 |
+| *OnePiece* |      [OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](https://arxiv.org/abs/2509.18091)      | arXiv'25 |
+| *ReaRec* |      [Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation](https://arxiv.org/abs/2503.22675)      | arXiv'25 |
+
+
+- **Methods on incorporation of external knowledge:** Approaches that enhance user representation by incorporating external knowledge sources to enrich semantic understanding beyond observed behaviors.
+
+|  Method   |                                             Paper Title                                              |   Published At    |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: |
+| *KGCL* |      [Knowledge Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2205.00976)      | SIGIR'22 |
+| *KMCLR* |      [Knowledge enhancement for contrastive multi-behavior recommendation](https://arxiv.org/abs/2301.05403)      | WSDM'23 |
+| *Eager* |      [Eager: Two-stream generative recommender with behavior-semantic collaboration](https://arxiv.org/abs/2406.14017)      | KDD'24 |
+| *ReLLa* |      [Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation](https://arxiv.org/abs/2308.11131)      | WWW'24 |
+| *ReLLaX* |      [Full-stack optimized large language models for lifelong sequential behavior comprehension in recommendation](https://arxiv.org/abs/2501.13344)      | TORS'25 |
+| *KAR* |      [Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models](https://arxiv.org/abs/2306.10933)      | RecSys'24 |
+| *LIBER* |      [LIBER: Lifelong User Behavior Modeling Based on Large Language Models](https://arxiv.org/abs/2411.14713)      | arXiv'24 |
+| *OneRec-Think* |      [OneRec-Think: In-Text Reasoning for Generative Recommendation](https://arxiv.org/abs/2510.11639)      | arXiv'25 |
+| *RecZERO* |      [Think before recommendation: Autonomous reasoning-enhanced recommender](https://arxiv.org/abs/2510.23077)      | NIPS'25 |
 
 
 ## Datasets
