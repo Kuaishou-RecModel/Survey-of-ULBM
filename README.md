@@ -8,6 +8,19 @@ This survey provides an in-depth examination of existing User Lifelong Behavior 
 
 We will continue to track and summarize emerging ULBM research, with particular attention to approaches that have been validated in real-world industrial settings, in order to facilitate the continued advancement of this field.
 
+## Citation
+If you find this survey useful, please cite the following paper:
+
+```bibtex
+@article{zhou2026survey,
+  title={A Survey of User Lifelong Behavior Modeling: Perspectives on Efficiency and Effectiveness},
+  author={Zhou, Rui and Jia, Qinglin and Chen, Bo and Xu, Peng and Sun, Yijia and Lou, Siyuan and Fu, Chaoxin and Fu, Mengyuan and Shen, Guoming and Zhou, Zheli and others},
+  year={2026},
+  publisher={Preprints}
+}
+```
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Survey Scope](#survey-scope)
